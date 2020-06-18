@@ -6,6 +6,10 @@
     align-items: center;
 }
 
-.text-alert{
+.text-alert {
     margin: 8px;
+}
+
+.btn {
+    width: 5.5em;
 }
